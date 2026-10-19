@@ -1,0 +1,18 @@
+{
+    "nodes": 100000,
+    "edges": 8577044,
+    "pages_ranked": 100000,
+    "damping_factor": 0.85,
+    "tolerance": 1e-06,
+    "max_iterations": 100,
+    "execution_time_seconds": 20.02,
+    "sum_pagerank_scores": 0.9999999999999997,
+    "top_10_overlap": 9,
+    "spearman_correlation": 0.907687180694256,
+    "spearman_p_value": 0.0,
+    "min_pagerank": 1.5073374942792037e-06,
+    "median_pagerank": 3.804682645439931e-06,
+    "mean_pagerank": 9.999999999999994e-06,
+    "max_pagerank": 0.01015125124917978,
+    "std_pagerank": 5.54918047147331e-05
+}

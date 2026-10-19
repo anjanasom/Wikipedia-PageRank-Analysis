@@ -1,0 +1,11 @@
+{
+    "nodes": 100000,
+    "edges": 8577044,
+    "self_loops": 4326,
+    "zero_in_degree_pages": 0,
+    "zero_out_degree_pages": 204,
+    "average_in_degree": 85.77044,
+    "average_out_degree": 85.77044,
+    "maximum_in_degree": 51535,
+    "maximum_out_degree": 1765
+}
