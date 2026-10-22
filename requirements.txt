@@ -1,6 +1,7 @@
-
 pandas
 numpy
 networkx
 matplotlib
 scipy
+streamlit
+plotly
