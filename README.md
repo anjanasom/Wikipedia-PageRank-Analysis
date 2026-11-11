@@ -6,6 +6,8 @@ This project analyzes the structural importance of Wikipedia pages using the Pag
 
 It compares PageRank scores with in-degree rankings to understand how incoming links and the importance of linking pages influence page rankings.
 
+Demo Link: https://drive.google.com/file/d/1vUQ3_USfIbR9-uJfaOm6mrLjaZd8jPT8/view?usp=sharing
+
 ## Dataset
 
 - **Dataset:** Wikipedia Link Graph Dataset – 100K Pages
