@@ -120,3 +120,7 @@ The dashboard reads saved output files; it does not rebuild the graph or rerun P
 - The analysis is restricted to the selected 100,000 pages.
 - PageRank measures structural importance in the hyperlink graph, not article quality or factual accuracy.
 - Execution time depends on the computing environment.
+
+## Contact Details
+-> Anjana Soman: anjana.23bcb7103@vitapstudent.ac.in
+-> T. Vamshika: vamshika.23bcb7123@vitapstudent.ac.in
