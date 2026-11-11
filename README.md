@@ -122,5 +122,5 @@ The dashboard reads saved output files; it does not rebuild the graph or rerun P
 - Execution time depends on the computing environment.
 
 ## Contact Details
--> Anjana Soman: anjana.23bcb7103@vitapstudent.ac.in
--> T. Vamshika: vamshika.23bcb7123@vitapstudent.ac.in
+- Anjana Soman: anjana.23bcb7103@vitapstudent.ac.in
+- T. Vamshika: vamshika.23bcb7123@vitapstudent.ac.in
